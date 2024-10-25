@@ -1,12 +1,7 @@
 
 ## Working Title
 - ### Simple_shell
-
-## Core component
-- ### Simplicity
-- ### ease
-- ### extendibility
-
+- 
 ## Objectives and Progression
 - ### Building a functional bare shell with essential utilities such as ls, cd, mkdir, etc
 - ### Start/Improve testing procedures
